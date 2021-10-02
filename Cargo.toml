@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "programs/*"
+]
+exclude = [
+  "contrib/serum-dex",
+]

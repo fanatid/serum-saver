@@ -1,0 +1,11 @@
+[provider]
+cluster = "localnet"
+wallet = "./tests/config/keypair.json"
+
+[programs.localnet]
+serum_saver = "H5jDEUSFVFzH4rxyTExqPcg83NrXwK36EjwWoEByXd9A"
+
+[workspace]
+members = [
+  "programs/serum-saver"
+]

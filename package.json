@@ -1,0 +1,9 @@
+{
+    "name": "serum-saver",
+    "version": "0.0.0",
+    "private": true,
+    "devDependencies": {
+      "@project-serum/anchor-cli": "=0.16.2"
+    }
+  }
+  
